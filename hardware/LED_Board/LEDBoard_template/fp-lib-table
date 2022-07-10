@@ -1,0 +1,12 @@
+(fp_lib_table
+  (lib (name "Cree")(type "KiCad")(uri "${CUSTLIB}/Pretty_Footprints/Cree.pretty")(options "")(descr ""))
+  (lib (name "General_SMD")(type "KiCad")(uri "${CUSTLIB}/Pretty_Footprints/General_SMD.pretty")(options "")(descr ""))
+  (lib (name "SSOP")(type "KiCad")(uri "${CUSTLIB}/Pretty_Footprints/SSOP.pretty")(options "")(descr ""))
+  (lib (name "SOT")(type "KiCad")(uri "${CUSTLIB}/Pretty_Footprints/SOT.pretty")(options "")(descr ""))
+  (lib (name "QFN")(type "KiCad")(uri "${CUSTLIB}/Pretty_Footprints/QFN.pretty")(options "")(descr ""))
+  (lib (name "SOIC")(type "KiCad")(uri "${CUSTLIB}/Pretty_Footprints/SOIC.pretty")(options "")(descr ""))
+  (lib (name "Bourns")(type "KiCad")(uri "${CUSTLIB}/Pretty_Footprints/Bourns.pretty")(options "")(descr ""))
+  (lib (name "Connector_JST")(type "KiCad")(uri "${KICAD6_FOOTPRINT_DIR}/Connector_JST.pretty")(options "")(descr ""))
+  (lib (name "Connectors_Molex")(type "KiCad")(uri "${CUSTLIB}/Pretty_Footprints/Connectors_Molex.pretty")(options "")(descr ""))
+  (lib (name "Mounting_Holes")(type "KiCad")(uri "${CUSTLIB}/Pretty_Footprints/Mounting_Holes.pretty")(options "")(descr ""))
+)

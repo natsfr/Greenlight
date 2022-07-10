@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name "passives")(type "KiCad")(uri "${CUSTLIB}/Passive/passives.kicad_sym")(options "")(descr ""))
+  (lib (name "ADP8140")(type "KiCad")(uri "${CUSTLIB}/Power/LEDDriver/ADP8140.kicad_sym")(options "")(descr ""))
+  (lib (name "L6982NDR")(type "KiCad")(uri "${CUSTLIB}/Power/Buck/L6982NDR.kicad_sym")(options "")(descr ""))
+  (lib (name "NMOS")(type "KiCad")(uri "${CUSTLIB}/Transistors/NMOS.kicad_sym")(options "")(descr ""))
+)
