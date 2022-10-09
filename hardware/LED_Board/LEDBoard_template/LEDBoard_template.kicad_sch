@@ -1716,6 +1716,10 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 4a75f0be-02e1-402f-99b5-80a12c69bb10)
   )
+  (text "Settings for about 150mA" (at 60.325 106.68 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 58598ee5-ce34-4ad2-8845-807b853587d8)
+  )
   (text "4*2.4V @ 350mA" (at 121.285 24.765 0)
     (effects (font (size 2.54 2.54)) (justify left bottom))
     (uuid 8ca300c8-59bf-4404-8208-c956944a6a3b)
@@ -2442,7 +2446,7 @@
     (property "Reference" "R104" (id 0) (at 64.77 85.09 0)
       (effects (font (size 0.635 0.635)))
     )
-    (property "Value" "5k" (id 1) (at 59.69 85.09 0)
+    (property "Value" "3k" (id 1) (at 59.69 85.09 0)
       (effects (font (size 0.635 0.635)))
     )
     (property "Footprint" "SM0603" (id 2) (at 62.23 86.36 0)
@@ -3567,7 +3571,7 @@
     (property "Reference" "R107" (id 0) (at 83.82 95.885 0)
       (effects (font (size 0.635 0.635)))
     )
-    (property "Value" "7.32k" (id 1) (at 83.82 90.805 0)
+    (property "Value" "15k" (id 1) (at 83.82 90.805 0)
       (effects (font (size 0.635 0.635)))
     )
     (property "Footprint" "SM0603" (id 2) (at 82.55 93.345 0)
@@ -4104,7 +4108,7 @@
       (reference "R103") (unit 1) (value "10k") (footprint "SM0603")
     )
     (path "/7255b086-c0cd-4fbd-a16b-411b9c6522b1"
-      (reference "R104") (unit 1) (value "5k") (footprint "SM0603")
+      (reference "R104") (unit 1) (value "3k") (footprint "SM0603")
     )
     (path "/e1feab75-c24f-4da2-91f6-19bdc7977cf2"
       (reference "R105") (unit 1) (value "15k") (footprint "SM0603")
@@ -4113,7 +4117,7 @@
       (reference "R106") (unit 1) (value "52.3k") (footprint "SM0603")
     )
     (path "/f948e784-6f7a-45b9-8898-a8c09ac06842"
-      (reference "R107") (unit 1) (value "7.32k") (footprint "SM0603")
+      (reference "R107") (unit 1) (value "15k") (footprint "SM0603")
     )
     (path "/c24150c6-b6e6-4a0f-b908-d8d5e70f02ef"
       (reference "R108") (unit 1) (value "NC") (footprint "SM0603")
@@ -4146,7 +4150,7 @@
       (reference "R203") (unit 1) (value "10k") (footprint "SM0603")
     )
     (path "/f1dd9b7f-4356-4e84-bf2c-fb8cc5eb7ed1/68f8542a-34f4-484a-8cfe-ce4490bb021d"
-      (reference "R204") (unit 1) (value "5k") (footprint "SM0603")
+      (reference "R204") (unit 1) (value "3k") (footprint "SM0603")
     )
     (path "/f1dd9b7f-4356-4e84-bf2c-fb8cc5eb7ed1/49775adc-3d93-4fea-ac27-d4d05a56a2e7"
       (reference "R205") (unit 1) (value "15k") (footprint "SM0603")
@@ -4155,7 +4159,7 @@
       (reference "R206") (unit 1) (value "52.3k") (footprint "SM0603")
     )
     (path "/f1dd9b7f-4356-4e84-bf2c-fb8cc5eb7ed1/3c3c4e3c-a35b-4270-b84a-f9a5a649cd34"
-      (reference "R207") (unit 1) (value "7.32k") (footprint "SM0603")
+      (reference "R207") (unit 1) (value "15k") (footprint "SM0603")
     )
     (path "/f1dd9b7f-4356-4e84-bf2c-fb8cc5eb7ed1/fac35319-4246-4b13-a029-eba8adc5638a"
       (reference "R208") (unit 1) (value "NC") (footprint "SM0603")
